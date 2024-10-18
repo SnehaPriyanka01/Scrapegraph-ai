@@ -1,0 +1,5 @@
+scrapegraphai==1.25.1
+requests
+beautifulsoup4>=4.12.3
+lxml
+pandas
